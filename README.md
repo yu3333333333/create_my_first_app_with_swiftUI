@@ -14,7 +14,7 @@
 
 ---
 
-## 📂 專案結構
+## 📂 專案結構 (內有程式註解)
 CreateMyFirstAppWithSwiftUI/first_app
 
 ├── first_appApp.swift # App 進入點
